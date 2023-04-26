@@ -1,0 +1,8 @@
+# robotstxt.org/
+
+User-agent: *
+
+
+User-agent: SiteAuditBot
+Disallow: /wp-admin/
+Allow: /
