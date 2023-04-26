@@ -35,6 +35,7 @@
 					</div>
 				</article>
 				<article class="testdiv"></div>
+					<article class="testdiv2"></div>
 			<?php endwhile; ?>
 
 			<?php else: ?>
