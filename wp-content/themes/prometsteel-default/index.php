@@ -34,6 +34,7 @@
 					<p><?php the_tags(); ?></p>
 					</div>
 				</article>
+				<article class="testdiv"></div>
 			<?php endwhile; ?>
 
 			<?php else: ?>
